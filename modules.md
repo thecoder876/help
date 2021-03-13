@@ -1,10 +1,11 @@
-# modules
+# Modules
 ## List of official modules:
 ### wgytcraft/errors
-Description: _beautiful tailwind error pages, powered by ejs, inspired by wgyt.tk, shipped with wgytcraft, by default_
+Description: Beautiful Tailwind error pages, powered by EJS, inspired by wgyt.tk, shipped with Wgytcraft by default.
 
-Github Repo: https://github.com/wgytcraft/errors
+Repo: https://github.com/wgytcraft/errors
+
 ### wgytcraft/hello-world-template
-Description: _originally a test module, now a hello world starter, using only res.write_
+Description: Originally a test module, now a hello world starter, using only res.write.
 
-Github Repo: https://github.com/wgytcraft/hello-world-template
+Repo: https://github.com/wgytcraft/hello-world-template
