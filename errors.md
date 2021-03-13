@@ -1,4 +1,4 @@
-# errors
+# Errors
 ## Error Codes:
 Most error codes are just HTTP status codes with an extra description.
 
